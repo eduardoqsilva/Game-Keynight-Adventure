@@ -1,2 +1,2 @@
-# Game-Jam-Games
-jogos feitos por min ou que eu participei do desenvolvimento diretamente  em game jams
+# Keynight Adventure
+jogo feito para uma jam de um canal do discord, durou um total de 5 dias, o tempo gasto diariamente trabalhando no projeto foi em média 2 horas, fiz todo o level design, menu e sistema de coleta de itens, assim como interações, além disso programei todo sistema de loading e também adicionei alguns dos efeitos sonoros, todo o cenario foi produzido por meio de assets exeto os efeitos de particulas assim como efeitos de pós processamento.
